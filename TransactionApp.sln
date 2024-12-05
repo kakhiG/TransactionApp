@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionApp", "TransactionApp\TransactionApp.csproj", "{A5DDA53D-7A1B-42C7-8036-ECEA4753AA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionApp.tests", "TransactionApp.tests\TransactionApp.tests.csproj", "{730222AA-A9DD-45F5-8854-8D272598440B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5DDA53D-7A1B-42C7-8036-ECEA4753AA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DDA53D-7A1B-42C7-8036-ECEA4753AA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DDA53D-7A1B-42C7-8036-ECEA4753AA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DDA53D-7A1B-42C7-8036-ECEA4753AA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730222AA-A9DD-45F5-8854-8D272598440B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730222AA-A9DD-45F5-8854-8D272598440B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730222AA-A9DD-45F5-8854-8D272598440B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730222AA-A9DD-45F5-8854-8D272598440B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C025134-3AED-4F72-A6EC-22F6B2B8B179}
+	EndGlobalSection
+EndGlobal
